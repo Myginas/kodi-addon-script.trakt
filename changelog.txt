@@ -1,3 +1,20 @@
+version 3.8.2
+- Fix: Handle empty Kodi media details
+- Fix functional bugs in utilities and scrobbler
+- Add unit tests for utilities and obfuscation modules
+- Improve type hints
+
+version 3.8.1
+- Changes to user agent and api key handling
+
+version 3.8.0
+- Add support for script.trakt.exclude listitem property
+- Translation updates (Irish, Bosnian, Polish, Portuguese, Swedish, Chinese, and more)
+
+version 3.7.1
+- Fix title/year fallback ignoring year
+- Add a test for movies with same name
+
 version 3.7.0
 - Translation update
 
